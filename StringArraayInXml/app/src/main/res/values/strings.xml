@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StringArraayInXml</string>
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Html</item>
+        <item>Php</item>
+        <item>Kotlin</item>
+        <item>JavaScript</item>
+        <item>C</item>
+        <item>C++</item>
+    </string-array>
+</resources>
